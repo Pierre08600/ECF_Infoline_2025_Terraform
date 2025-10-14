@@ -6,7 +6,7 @@
 
 Auteur : Pierre Baroni
 
-Formation : Administrateur Système DevOps Bloc de compétences "Automatiser le déploiement d'une infrastructure dans le cloud" 
+Formation : Administrateur Système DevOps Bloc de compétences "Automatiser le déploiement d'une infrastructure dans le cloud" Bac+3 
 
 Date : Octobre 2025
 
