@@ -20,7 +20,7 @@ Ce projet déploie une infrastructure sur Azure pour l'application InfoLine.
 
 
 
-C'est mon premier projet avec Terraform pour apprendre l'Infrastructure as Code.
+Livrables techniques de l'ECF pour la certification Bloc 1 – Automatiser le déploiement d'une infrastructure dans le cloud (Studi)
 
 
 
